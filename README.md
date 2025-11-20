@@ -1,3 +1,8 @@
+# 我的模型架构图
+
+这里展示了基于 LDM 的汉服生成模型架构。
+
+```mermaid
 graph TD
     %% 定义样式
     classDef texture fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
@@ -62,3 +67,4 @@ graph TD
 
     %% 样式应用
     linkStyle default stroke:#333,stroke-width:1.5px;
+```
